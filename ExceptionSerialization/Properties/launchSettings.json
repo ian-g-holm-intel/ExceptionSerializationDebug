@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExceptionSerialization": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
